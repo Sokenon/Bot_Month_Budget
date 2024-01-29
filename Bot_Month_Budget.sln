@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot_Month_Budget", "Bot_Month_Budget.csproj", "{EB227CDD-213E-4634-9E34-C5194934788B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB227CDD-213E-4634-9E34-C5194934788B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB227CDD-213E-4634-9E34-C5194934788B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB227CDD-213E-4634-9E34-C5194934788B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB227CDD-213E-4634-9E34-C5194934788B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88CC00A-C5C7-4761-816C-ED04591A59C9}
+	EndGlobalSection
+EndGlobal
